@@ -1,0 +1,6 @@
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+astronomy-venv/
+data/
+augmented_dataset/
